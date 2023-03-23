@@ -22,8 +22,8 @@
 
 ## Зависимости
 
-`react`, хук [useIsSsr](../../hooks/useIsSsr/README.md)
+`react`, хук [useIsSsr](../../hooks/useIsSsr/)
 
 ## Как это работает?
 
-Вы можете узнать, как работает хук [useIsSsr](../../hooks/useIsSsr/README.md).
+Вы можете узнать, как работает хук [useIsSsr](../../hooks/useIsSsr/).

@@ -4,6 +4,6 @@
 
 ## Разделы
 
-1. [Libraries](./libraries/README.md)
-2. [Hooks](./hooks/README.md)
-3. [Components](./components/README.md)
+1. [Libraries](./libraries/)
+2. [Hooks](./hooks/)
+3. [Components](./components/)
