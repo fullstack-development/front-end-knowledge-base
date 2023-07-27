@@ -68,14 +68,14 @@
 
 ### Всплывающие подсказки (Tooltip)
 
-  - [React Tooltip](https://react-tooltip.com/) - реакт-библиотека для всплывающих подсказок при наведении. Внешний вид настраивается прокидыванием собственного JSX-кода.
+  - [React Tooltip](https://react-tooltip.com/) - реакт-библиотека для всплывающих подсказок при наведении. 
  
 
 <a name="2.6"></a>
 
 ### Компонент обратного отсчёта (Countdown)
 
-  - [React Countdown](https://react-tooltip.com/) - безстилевой реакт-компонент для отображения обратного отсчёта. [Пример.](https://codesandbox.io/s/react-countdown-34qlgl)
+  - [React Countdown](https://react-tooltip.com/) - безстилевой реакт-компонент для отображения обратного отсчёта. [Пример.](https://codesandbox.io/s/react-countdown-34qlgl). Внешний вид настраивается прокидыванием собственного JSX-кода.
 
 <a name="2.7"></a>
 
@@ -111,6 +111,8 @@
 ### Анимация высоты для height-auto
 
  - [react-animate-height](https://github.com/Stanko/react-animate-height) - реакт-компонент, позволяющий анимировать высоту элемента для значения `height: auto` (и любых других). Демо [здесь](https://muffinman.io/react-animate-height/).
+
+    Немного контекста: к сожалению нет нативного способа анимировать `height: auto`, но есть 3 "хака" - 2 из которых выглядят костыльно, а 3й работает как надо, но нужен JS-скрипт. Собственно в этом компоненте как раз написан такой скрипт. Подробнее о проблеме и 3х вариантов её решения можно почитать [здесь](https://css-tricks.com/using-css-transitions-auto-dimensions/).
 
 <a name="4"></a>
 
