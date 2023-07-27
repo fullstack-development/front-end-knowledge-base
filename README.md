@@ -7,8 +7,9 @@
 ## Разделы
 
 1. [React](./React/)
-2. [TypeScript](./TypeScript/)
-3. [CSS](./CSS/)
+1. [TypeScript](./TypeScript/)
+1. [JavaScript](./JavaScript/)
+1. [CSS](./CSS/)
 
 ## Цель
 

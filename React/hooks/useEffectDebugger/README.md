@@ -11,20 +11,20 @@
 ## Пример
 
 Before:
-```
+```tsx
 useEffect(() => {
   // useEffect code here... 
 }, [dep1, dep2])
 ```
 
 After:
-```
+```tsx
 useEffectDebugger(() => {
   // useEffect code here... 
 }, [dep1, dep2])
 ```
 Console output:
-```
+```js
 {
   1: {
     before: 'foo',
@@ -37,19 +37,19 @@ Console output:
 Вы можете передать необязательный 3й параметр, что бы дать имена ключам объекта:
 
 Before:
-```
+```tsx
 useEffect(() => {
   // useEffect code here... 
 }, [dep1, dep2])
 ```
 After:
-```
+```tsx
 useEffectDebugger(() => {
   // useEffect code here... 
 }, [dep1, dep2], ['dep1', 'dep2'])
 ```
 Console output:
-```
+```js
 {
   dep2: {
     before: 'foo',
@@ -60,4 +60,4 @@ Console output:
 
 ## Зависимости
 
-`react`, хук `useIsPrevious`
+`react`, хук `usePrevious`

@@ -4,6 +4,6 @@
 
 ## Разделы
 
-1. [Libraries](./libraries/)
-2. [Hooks](./hooks/)
-3. [Components](./components/)
+1. [Библиотеки](./libraries/)
+2. [Хуки](./hooks/)
+3. [Компоненты](./components/)

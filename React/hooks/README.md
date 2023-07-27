@@ -7,3 +7,5 @@
 - [useEffectDebugger](./useEffectDebugger/) - позволяет узнать, почему срабатывает ваш эффект.
 
 - [usePreloader](./usePreloader/) - управление статусом ваших асинхронных действий.
+
+- [useReadFileAsDataUrl](./useReadFileAsDataUrl/) - небольшой хук принимающий `Blob` или `File` и возвращающий строку в формате `base64`. Если это изображение, строку можно передать атрибуту `src` тега `img`.
