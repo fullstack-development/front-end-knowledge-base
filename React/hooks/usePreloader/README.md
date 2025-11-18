@@ -20,7 +20,7 @@
 
 ## Пример
 
-![image](https://user-images.githubusercontent.com/90761929/226887419-a7c82f3d-498c-432f-b9fe-ebf4b80955bb.png)
+![image](./image.png)
 
 
 ## Зависимости
