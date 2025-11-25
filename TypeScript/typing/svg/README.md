@@ -15,7 +15,7 @@
       }
       ```   
   2. Добавьте путь к файлу в массив `include` в вашем `tsconfig.json` (в примере файл находится в корне проекта): 
-  ![image](https://user-images.githubusercontent.com/90761929/222449468-db502f0b-1997-445a-91b9-e9ee8e96d8ee.png)
+  ![image](./image.png)
   3. Далее при импорте svg - файла вам надо будет писать:
       ```ts
         import { ReactComponent as DisableIcon } from './icons/disable.svg';

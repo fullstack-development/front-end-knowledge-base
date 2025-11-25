@@ -10,7 +10,7 @@
 
 ## Пример
 
-![image](https://github.com/fullstack-development/front-end-best-practices/assets/90761929/5207fff0-4e6e-44f0-839b-e9396cdb1db7)
+![image](./image.png)
 
 
 ## Зависимости

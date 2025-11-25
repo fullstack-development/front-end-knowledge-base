@@ -10,6 +10,7 @@
 1. [TypeScript](./TypeScript/)
 1. [JavaScript](./JavaScript/)
 1. [CSS](./CSS/)
+1. [Полезные ресурсы](./resources/)
 
 ## Цель
 
